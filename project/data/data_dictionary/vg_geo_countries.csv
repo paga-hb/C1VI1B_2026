@@ -1,0 +1,6 @@
+Field,Description
+Country,Country name
+Alpha-2 code,ISO2 country code
+Alpha-3 code,ISO3 country code
+Latitude,Country center latitude
+Longitude,Country center longitude
