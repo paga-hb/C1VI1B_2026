@@ -54,7 +54,7 @@ When you have installed the software above, open a terminal and clone the GitHub
 
 ## Open the First Workshop Notebook
 
-Finally, make sure you are in the `dataviz` folder in your terminal, and open the first notebook in Visual Studio Code, by issuing the command below:
+Finally, make sure you are in the `dataviz/` folder in your terminal, and open the first notebook in Visual Studio Code, by issuing the command below:
 
 - `code -g workshop1/vscode.ipynb:0 .`
 
