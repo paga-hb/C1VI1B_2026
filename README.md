@@ -49,8 +49,8 @@ When you have installed the software above, open a terminal and clone the GitHub
 - `conda create -y -p ./.conda python=3.12`
 - `conda activate ./.conda`
 - `python -m pip install --upgrade pip`
-- `pip install ipykernel jupyter pylance numpy pandas matplotlib seaborn bokeh plotly`
-- `pip install dash dash-bootstrap-components openpyxl lxml pycountry`
+- `pip install ipykernel jupyter pylance numpy pandas matplotlib seaborn bokeh plotly pillow`
+- `pip install dash dash-bootstrap-components openpyxl lxml pycountry ipympl basemap pillow kaleido`
 
 ## Open the First Workshop Notebook
 
