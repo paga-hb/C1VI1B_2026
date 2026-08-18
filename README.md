@@ -14,7 +14,7 @@ Install the following software on your computer:
 
 - [Visual Studio Code](https://code.visualstudio.com)
 - [Git](https://git-scm.com/downloads)
-- [Miniconda](https://docs.anaconda.com/miniconda/install/#quick-command-line-install)
+- [Miniconda](https://www.anaconda.com/docs/getting-started/miniconda/system-requirements)
 - [Python](https://www.python.org) (optional) - comes pre-installed on Linux and Mac
 
 ### Verify the Software Installation
@@ -64,7 +64,8 @@ Now you can follow the instructions in the notebook.
 
 ---
 
-## Appendix - Development Environment Setup per Operating System
+## Appendix - Command Line Development Environment Setup per Operating System
+- You don't have to do this if you install the development environment manually via the instructions above.
 
 ### Windows
 Open an Administrator CMD terminal and issue the commands below:
