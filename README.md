@@ -52,6 +52,13 @@ When you have installed the software above, open a terminal and clone the GitHub
 - `pip install ipykernel jupyter pylance numpy pandas matplotlib seaborn bokeh plotly pillow`
 - `pip install dash dash-bootstrap-components openpyxl lxml pycountry ipympl basemap pillow kaleido`
 
+## Conda Channels Terms of Service (ToS)
+
+If conda asks you to accept the Terms of Service (ToS) for the default conda channels, run the two commands below:
+
+- `conda tos accept --override-channels --channel https://repo.anaconda.com/pkgs/main`
+- `conda tos accept --override-channels --channel https://repo.anaconda.com/pkgs/r`
+
 ## Open the First Workshop Notebook
 
 Finally, make sure you are in the `dataviz/` folder in your terminal, and open the first notebook in Visual Studio Code, by issuing the command below:
